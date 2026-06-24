@@ -1,0 +1,10 @@
+Git Class
+=====================
+Create a Dummy Project
+Create a Repo
+Give Proper Commands
+
+to push the code in the use either vs code or terminal or git bash
+
+first by default everyone need to install git bash and config the git using username or email
+make sure u provide access to the git ecosystem
